@@ -29,8 +29,8 @@ git コマンドを使い、自分のコンピュータへcloneしてくださ�
 3. 今度は 自分のコンピュータで作業します。
 clone して出来たdirectoryにcd して、student ディレクトリの下に、自分のアカウント名でディレクトリを作ります。
 この作業は、今回一度だけ行います。
-このディレクトリを、今後あなたの student home と呼びます。
 (次のSubjectでは必要ありません)
+このディレクトリを、今後あなたの student home と呼びます。
 4. student homeの下に、今回のsubjectの結果を保存するためのdirectoryを作ります、名前は Subject00 です。
 5. ここで、このsubjectの２つ目のテーマをやってみましょう。  
 簡単なshell scriptを作ってみましょう。  
