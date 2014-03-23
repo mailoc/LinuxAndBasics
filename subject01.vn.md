@@ -29,11 +29,10 @@ Viết một chương trình hiển thị "Hello World!" đơn giản.
 5. Tên của chương trình C đã làm ở 4., giả định là mytest.c thì gọi 
 
          ./runcprog.sh mytest.c
+thì đầu ra sẽ là  
 
-thì đầu ra sẽ là
-
-        Starting your C program:
-        Hello World!
+         Starting your C program:  
+         Hello World!
 
 6. Trong trường hợp có lỗi ở mytest.c thì runcprog.sh sẽ xuất hiện thông báo dưới và kết thúc.  
 
