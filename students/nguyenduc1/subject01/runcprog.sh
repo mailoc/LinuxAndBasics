@@ -4,5 +4,5 @@ if [ $? -eq 0 ];then
 echo Starting your C program:
 ./$1
 else
- echo Compiling Failed!!!
-fi
+echo Compling failed!!
+fi 
